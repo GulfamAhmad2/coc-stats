@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+- Responsive MY Portfolio Using React js.
+- Developed first with the Mobile First methodology, then for desktop.
+
+<img width="1663" alt="Frame 1" src="https://user-images.githubusercontent.com/112485199/210277523-3c65ca6e-36dc-44b2-b055-e6ef27b3dbd8.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
