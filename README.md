@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# COC-STATS
 
 - Responsive COC-STATS Using React js.
 - Developed first with the Mobile First methodology, then for desktop.
