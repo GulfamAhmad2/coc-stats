@@ -1,5 +1,5 @@
 # COC-STATS
-
+- [Live](https://coc-stats.netlify.app/)
 - Responsive COC-STATS Using React js.
 - Developed first with the Mobile First methodology, then for desktop.
 
